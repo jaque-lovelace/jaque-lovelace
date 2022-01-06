@@ -4,7 +4,6 @@
 ✍ Estudando .NET Core   
 📲 Pode me chamar pelo Linkedin: https://www.linkedin.com/in/jaqueline-menezes/ 
 
-# Hello, Mundoo. Eu sou a Jaque!
 <div align="center">
   <a href="https://github.com/jaque-lovelace">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaque-lovelace&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
