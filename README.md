@@ -2,7 +2,7 @@
 
 👩🏽 Atualmente trabalho com gerenciamento de projetos e transformação digital  
 ✍ Estudando .NET Core   
-📲 Pode me chamar pelo Linkedin: https://www.linkedin.com/in/jaqueline-menezes/ 
+📲 Pode me chamar pelo e-mail jaquelinemenezes715@gmail.com
 
 <div align="center">
   <a href="https://github.com/jaque-lovelace">
