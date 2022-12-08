@@ -1,7 +1,8 @@
 # Hello, Mundoo. Eu sou a Jaque!
 
-👩🏽 Atualmente trabalho com gerenciamento de projetos e transformação digital  
-✍ Estudando .NET Core   
+👩🏽 Atualmente trabalho com gerenciamento de projetos, transformação digital e criação de conteúdo sobre Equidade de gênero  
+✍ Estudando .NET Core
+✍ Estudando Java
 📲 Pode me chamar pelo e-mail jaquelinemenezes715@gmail.com
 
 <div align="center">
