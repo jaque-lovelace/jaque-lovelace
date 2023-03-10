@@ -5,11 +5,11 @@
 ✍ Estudando Java
 📲 Pode me chamar pelo e-mail jaquelinemenezes715@gmail.com
 
-<div align="center">
+<!---<div align="center">
   <a href="https://github.com/jaque-lovelace">
   <img height="180em" src=https://jaque-lovelace.vercel.app/>
   <img height="180em" src="https://jaque-lovelace-1c07fktgc-jaque-lovelace.vercel.app)"/>
-</div>
+</div>-->
     
 <div><br>
   
