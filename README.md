@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/jaque-lovelace">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaque-lovelace&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src=https://jaque-lovelace.vercel.app/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaque-lovelace&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
     
