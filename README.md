@@ -1,15 +1,11 @@
 # Hello, Mundoo. Eu sou a Jaque!
 
 👩🏽 Atualmente trabalho com gerenciamento de projetos, transformação digital e criação de conteúdo sobre Equidade de gênero  
-✍ Estudando .NET Core
-✍ Estudando Java
+✍ Estudando .NET Core <br>
+✍ Estudando Java <br>
 📲 Pode me chamar pelo e-mail jaquelinemenezes715@gmail.com
 
-<!---<div align="center">
-  <a href="https://github.com/jaque-lovelace">
-  <img height="180em" src=https://jaque-lovelace.vercel.app/>
-  <img height="180em" src="https://jaque-lovelace-1c07fktgc-jaque-lovelace.vercel.app)"/>
-</div>-->
+
     
 <div><br>
   
